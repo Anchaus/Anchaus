@@ -77,13 +77,10 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
 </p>
 
 ### Statiscits
-<p align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" width="100%" margin="0" />
-</p>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=compact" width="50.5%" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anchaus" width="49.3%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" width="47%" margin="0" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=compact" width="51%" />
 </p>
 
 <!--
@@ -98,7 +95,7 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
 - ⚡ Fun fact: ...
 -->
 
-### Contacts
+<h3 align="left">Contacts</h3>
 
 📫 anchaus.12@yandex.ru
 
