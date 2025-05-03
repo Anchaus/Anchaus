@@ -12,23 +12,8 @@
 I'm Junior researcher in healthcare and currently studying Data Science and ML to implement Machine Learning based methods in Psychological and Psychiatric practice.
 
 ### Languages and tools
-<style>
-    .skills {
-        align="left";
-        margin: 0;
-    }
-    .stats {
-        margin: 0;
-    }
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-</style>
 
-<p class="skills">
+<p>
     <a href="https://python.org" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" width="50" />
     </a>
@@ -53,30 +38,7 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
     <a href="https://plotly.com" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Ploly" height="50" width="30"/>
     </a>
-</p>
-<p class="skills">
-    <a href="https://www.gnu.org/software/pspp/" target="blank" rel="noreferrer">
-        <img src="https://www.gnu.org/software/pspp/pspplogo.svg" alt="PSPP" height="50" width="50" />
-    </a>
-    <a href="https://jupyter.org" target="blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" width="50" />
-    </a>
-    <a href="https://latex-project.org" target="blank" rel="noreferrer">
-        <img src="img/latex.svg" alt="LaTeX" height="50" width="50" />
-    </a>
-    <a href="https://www.anaconda.com" target="blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" width="50" />
-    </a>
-</p>
-<p class="skills">
-    <a href="https://www.postgresql.org" target="blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" width="50" />
-    </a>
-    <a href="https://www.sqlite.org" target="blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" width="50" />
-    </a>
-</p>
-<p class="skills">
+    <br>
     <a href="https://www.cprogramming.com" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" width="50" />
     </a>
@@ -92,16 +54,36 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
     <a href="https://git-scm.com" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" width="50" />
     </a>
+    <br>
+    <a href="https://www.gnu.org/software/pspp/" target="blank" rel="noreferrer">
+        <img src="https://www.gnu.org/software/pspp/pspplogo.svg" alt="PSPP" height="50" width="50" />
+    </a>
+    <a href="https://jupyter.org" target="blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" width="50" />
+    </a>
+    <a href="https://latex-project.org" target="blank" rel="noreferrer">
+        <img src="img/latex.svg" alt="LaTeX" height="50" width="50" />
+    </a>
+    <a href="https://www.anaconda.com" target="blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" width="50" />
+    </a>
+    <br>
+    <a href="https://www.postgresql.org" target="blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" width="50" />
+    </a>
+    <a href="https://www.sqlite.org" target="blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" width="50" />
+    </a>
 </p>
 
 ### Statiscits
-<p align="center" class="stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=compact" alt="Anchaus" width="52%"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" alt="Anchaus" width="48%" />
+<p align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" width="100%" margin="0" />
 </p>
 
-<p class="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anchaus" alt="Anchaus" />
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=compact" width="50.5%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anchaus" width="49.3%" />
 </p>
 
 <!--
