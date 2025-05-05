@@ -13,7 +13,7 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
 
 ### Languages and tools
 
-<p>
+<div>
     <a href="https://python.org" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" width="50" />
     </a>
@@ -74,28 +74,19 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
     <a href="https://www.sqlite.org" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" width="50" />
     </a>
-</p>
+</div>
 
-### Statiscits
+### Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" width="47%" margin="0" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=compact" width="51%" />
-</p>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" width="53%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=donut-vertical" align="right" width="40.5%" />
+    <a href="https://git.io.streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Anchaus" alt="GitHub Streak" width="53%"/>
+    </a>
+</div>
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="left">Contacts</h3>
+### Contacts
 
 📫 anchaus.12@yandex.ru
 
@@ -107,3 +98,4 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg" alt="GitHub Anchaus" height="30", width="30" />
     </a>
 </p>
+</div>
