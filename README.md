@@ -82,6 +82,9 @@ I'm Junior researcher in healthcare and currently studying Data Science and ML t
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Anchaus&show_icons=true&locale=en" width="53%" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anchaus&show_icons=true&locale=en&layout=donut-vertical" align="right" width="40.5%" />
+    </a>
     <a href="https://git.io.streak-stats">
         <img src="https://streak-stats.demolab.com/?user=Anchaus" alt="GitHub Streak" width="53%"/>
     </a>
